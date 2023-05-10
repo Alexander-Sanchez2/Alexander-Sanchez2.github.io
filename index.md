@@ -26,4 +26,4 @@ My GitHub page is http://github.com/Alexander-Sanchez2.
     number. I was happy to learn about if and else statements as they allowed me to add conditional logic to the game,
     making it more challenging and engaging. Overall, it was a fun and educational project. 
 
-![Favorite art](images/n2wejyluisd71.jpg)
+![Favorite art](images/n2wejyluisd71.png)
