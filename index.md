@@ -25,3 +25,5 @@ My GitHub page is http://github.com/Alexander-Sanchez2.
     Lab 4, Part 2 was a great learning experience for me as I created a game where the user tries to guess the secret
     number. I was happy to learn about if and else statements as they allowed me to add conditional logic to the game,
     making it more challenging and engaging. Overall, it was a fun and educational project. 
+
+![Favorite art](images/n2wejyluisd71.jpg)
